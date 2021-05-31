@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@200;400;700&display=swap');
+
+* {
+    font-family: 'Tajawal', sans-serif;
+    transition: 0.2s;
+   
+}
+
+.App {
+    text-align: center;
+}
