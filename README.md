@@ -4,7 +4,7 @@
 
 # Demo :
 If you want to take a look on the app.<br>
-you need to install it from [here](<./dist/pos-sys Setup 0.1.0.exe>)
+you need to install it from [here](https://drive.google.com/file/d/1p7VGI2nynzJLS_hQ778GB4o8DCGpJTWd/view?usp=sharing)
 
 # Use case : 👩‍🔬
 
